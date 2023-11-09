@@ -59,7 +59,7 @@ function PagetoInfo() {
 }
 function PagetoMoreInfo() {
   window.scrollTo(0, 0);
-
+  window.location.href = '  https://sock2009.github.io/NextInfo/moreinfo.html';
   document.getElementById("fon-one").style.backgroundImage = "url('https://img3.akspic.ru/crops/0/6/3/5/7/175360/175360-sportkar-nissan_gt_r-legkovyye_avtomobili-nissan_skyline_gt_r-nissan-1080x1920.jpg')";
   document.getElementById("fon-one").style.width =  "100vw";
   document.getElementById("fon-one").style.height =  "59cm";
